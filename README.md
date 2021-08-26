@@ -3,12 +3,7 @@ Python project simulating strawberries growing through stages. Goal: building a 
 
 ## Instructions
 
-Execute script from command line:
-
-```
-py Strawberry_Yield_Prediction.py
-```
-
+Execute *Strawberry_Yield_Prediction.py* script.
 The script generates a set of graphs showcasing simulation data and prediction model results.
 
 
