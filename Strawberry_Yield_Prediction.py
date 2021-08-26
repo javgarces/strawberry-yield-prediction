@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Modified on Sun Aug 22 2021
+Modified on Thu Aug 26 2021
 
 @author: Javier Garces
 
-Strawberry prediction model
+Strawberry Yield Prediction Model
 Data source: Simulated data
 """
 
