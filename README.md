@@ -23,3 +23,7 @@ This graph presents an example of the predictive model results by showcasing the
 - Pred.: the prediction result by evaluating the input data (validation data) using the trained model.
 
 ![barplot](../assets/barplot.png?raw=true)
+
+## Sources
+
+https://www.youtube.com/watch?v=6mL_p2CXVVw (to obtain stage length estimations)
